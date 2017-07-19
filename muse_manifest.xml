@@ -1,0 +1,57 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zhuyesheji.com" resolutions="1x" timestamp="1500468770025">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="252614374" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="474374037" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="webpro.js" crc="4143865194" ref="index"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="index"/>
+    <file name="touchswipe.js" crc="4200445185" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="d75e3906jw1ekt8sxl5rlj20xs0k8tge.jpg" crc="85272909" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cevtzmkuxkss.jpg" crc="3907655017" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7-111210230216.jpg" crc="3901241270" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a67af77b93e7078c85ff5ca66d779ed3_320_480.jpg" crc="238756499" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a20688971_s.jpg" crc="220286147" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="116f20d1474.jpg" crc="4087692548" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u=3672165869,2515262612-fm=214-gp=0.jpg" crc="4190088626" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_120217085451_7.jpg" crc="4215319516" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2531170_204301930000_2.jpg" crc="3877141691" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="011a3055cef3c36ac725baa099f158.jpg" crc="224834082" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="05s58picmtv_1024.jpg" crc="1760380" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4247006091" seo="true" mt="1500464619285" redirect="true"/>
+</manifest>
